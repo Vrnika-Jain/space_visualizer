@@ -1,10 +1,10 @@
-# space visualizer
-classify the star types using its images and even it's dimensions, visualize space and galaxies
+# Space Visualizer
+Classify star types using its images and its dimensions, to visualize space and galaxies
 
 ## 1. Introduction:
-The model automatically assigning an image to a specific category based on its content. This script likely explores various techniques to achieve this goal, potentially including:
-- Data preprocessing: Preparing the image data for model training, which could involve tasks like resizing, normalization, or feature extraction.
-- Model building and training: Creating and training machine learning models on the prepared data. This might involve decision trees, support vector machines (SVMs), or potentially even convolutional neural networks (CNNs).
+The model automatically assigns an image to a specific category based on its content. This script likely explores various techniques to achieve this goal, potentially including:
+- Data preprocessing: Preparing the image data for model training, which could involve tasks like resizing, normalization, and feature extraction.
+- Model building and training: Creating and training machine learning models on the prepared data. This can involve decision trees, support vector machines (SVMs), or convolutional neural networks (CNNs).
 - Model evaluation: Assessing the performance of the trained models on unseen data using metrics like accuracy, precision, recall, and F1 score.
 
 ## 2. Setting Up the Environment:
